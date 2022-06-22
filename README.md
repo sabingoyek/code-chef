@@ -8,7 +8,7 @@ All the solutions are accepted by Code Chef.
 
 ## How to find the related problem ?
 
-The folder name is the problem's name on Code Chef. You can find the problem by substituting [foldername] with the name of the folder: https://open.kattis.com/problems/[foldername]
+The folder name is the problem's name on Code Chef. You can find the problem by substituting [foldername] with the name of the folder: https://www.codechef.com/problems/[foldername]
 
 Example: HOWMANY contains my solution for the problem https://www.codechef.com/problems/HOWMANY
 
